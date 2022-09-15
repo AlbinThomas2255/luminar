@@ -1,0 +1,110 @@
+
+.img1 {
+    background-image: url(./images/lumiarbg..jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+}
+.z > * {
+    -webkit-animation-duration: 1s;
+	animation-duration: 1s;
+	-webkit-animation-fill-mode: both;
+	animation-fill-mode: both;
+	-webkit-animation-name: fadeOut;
+	animation-name: fadeOut;
+}
+.z h1 {
+    margin-left: 0%;
+    margin-top: -35%;
+    color: white;
+    font-size: 60px;
+    text-align: left;
+    margin-left: 17%;
+    -webkit-animation: 800ms ease-in-out 0s normal none 1 running slideInUp;
+	animation: 800ms ease-in-out 0s normal none 1 running slideInUp;
+}
+.z p {
+    color: white;
+    text-align: left;
+    margin-left: 17%;
+    -webkit-animation: 1100ms ease-in-out 0s normal none 1 running slideInUp;
+	animation: 1100ms ease-in-out 0s normal none 1 running slideInUp;
+    
+}
+.y > * {
+    -webkit-animation-duration: 1s;
+	animation-duration: 1s;
+	-webkit-animation-fill-mode: both;
+	animation-fill-mode: both;
+	-webkit-animation-name: fadeOut;
+	animation-name: fadeOut;
+}
+
+.y h1 {
+    margin-left: 17%;
+    margin-top: -35%;
+    color: white;
+    font-size: 60px;
+    text-align: left;
+    -webkit-animation: 800ms ease-in-out 0s normal none 1 running slideInUp;
+	animation: 800ms ease-in-out 0s normal none 1 running slideInUp;
+
+}
+.y p {
+    margin-left: 17%;
+    color: white;
+    text-align: left;
+    -webkit-animation: 1100ms ease-in-out 0s normal none 1 running slideInUp;
+	animation: 1100ms ease-in-out 0s normal none 1 running slideInUp;
+
+}
+
+.btn1 {
+    
+    background: #5e068a;
+    transition: 1s;
+
+}
+
+.btn1:hover {
+    background-color: rgb(222, 119, 214);
+
+}
+
+.a {
+    margin-top: 0%;
+    position: fixed;
+    margin-left: 0%;
+}
+.btn{
+    background-color: #5e068a;
+    border: 2px solid white;
+    color: white;
+    transition: 1s;
+}
+.btn:hover{
+
+    background-color: white;
+    border: 2px solid #5e068a;
+    color: black;
+}
+.second{
+    background-color: white;
+    height: 500px;
+    width: 1515px;
+    padding-left: 110px;
+    padding-top: 28px;
+    margin-top: 1%;
+}
+.second p{
+    width: 40%;
+}
+.second1{
+    margin-left: 9%;
+}
+.second1 img{
+    width: 34%;
+    margin-top: -35%;
+    margin-left: 58%;
+}
